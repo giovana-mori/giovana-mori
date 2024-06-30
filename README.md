@@ -24,7 +24,7 @@
   <tr style="border: none;">
     <td style="border: none;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=giovana-mori&theme=radical&hide_border=true&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api/?username=giovana-mori&show_icons=true&count_private=true&theme=radical&hide_border=true"
         alt="Github Stats"
       />
     </td>
@@ -67,6 +67,8 @@ Aqui estão alguns dos projetos que estou trabalhando:
 - **Vitas (https://github.com/giovana-mori/vitas):** Sistema de Agendamento para Clínicas de Saúde. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU** 
 - **SisEdu (https://github.com/giovana-mori/sisEdu):** Sistema para Controle de Notas Escolares. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU**
 - **Desafios (https://github.com/giovana-mori/Desafios):** Projetos Pessoais para Fins de Estudo.
+
+![Snake animation](https://github.com/giovana-mori/giovana-mori/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
