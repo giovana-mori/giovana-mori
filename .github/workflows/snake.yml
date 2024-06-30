@@ -16,12 +16,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg  # Caminho onde o SVG será gerado
-          snake_color: 'blue'  # Cor da cobra (opcional)
+          snake_color: 'pink'  # Cor da cobra (opcional)
 
       - name: Commit Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "giovana_mori@outlook.com"
+          git config --local user.name "giovana-mori"
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Update Snake Game SVG" -a
-          git push
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
