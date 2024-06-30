@@ -1,10 +1,21 @@
 <img src="https://raw.githubusercontent.com/giovana-mori/giovana-mori/main/meugifperfil.gif" width="100%" alt="Bem Vindo" />
 
+---
+
 🎓 **Formação:** Estudante de Desenvolvimento de Software Multiplataformas
 
-💼 **Profissão:** Estudante de TI
+---
+
+📢 **Idiomas Falados:**
+- 🇧🇷 Portuguese
+- 🇺🇸 English
+- 🇪🇸 Spanish
+
+---
 
 💻 **Tecnologias:** Apaixonada por desenvolvimento e tecnologia, atualmente focada em PHP, Laravel, Mysql, HTML5, CSS3, Tailwind, Bootstrap e JavaScript. 
+
+---
 
 📚 **Interesses:** Estou sempre aprendendo e me interessando por novas tecnologias, boas práticas de desenvolvimento e projetos open-source. Além disso, gosto de:
 
@@ -62,6 +73,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=181717&color=ebebeb" alt="GitHub logo" title="GitHub" height="25" />
 </div>
 
+---
+
 ## 🚀 Projetos
 
 Aqui estão alguns dos projetos que estou trabalhando:
@@ -82,11 +95,11 @@ Você pode me encontrar em:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:giovana.mori@fatec.sp.gov.br)
 
 ---
-
-Adoraria colaborar em projetos interessantes e inovadores. Vamos nos conectar! 
+<div align="center">
+<h2>Adoraria colaborar em projetos interessantes e inovadores. Vamos nos conectar!</h2>
 
 ![Alt Text](https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/cef2c238852bd373835690c593dd4df973aba6bb.gif)
-
+</div>
 
 
 
