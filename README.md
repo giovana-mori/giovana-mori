@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/giovana-mori/giovana-mori/main/meugifperfil.gif" width="100%" alt="Bem Vindo" />
+
 # 👋 Olá, eu sou Giovana Mori!
 
 🎓 **Formação:** Estudante de Desenvolvimento de Software Multiplataformas
