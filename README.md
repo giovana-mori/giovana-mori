@@ -20,44 +20,47 @@
 
 ## ⚙️ GitHub Analytics
 
-<table style="border: none;">
+<table id="table_stats" style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       <img
-        src="https://github-readme-stats.vercel.app/api/?username=giovana-mori&show_icons=true&count_private=true&theme=radical&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/?username=giovana-mori&show_icons=true&count_private=true&theme=radical&hide_border=true" width="100%" height="200px"
         alt="Github Stats"
       />
     </td>
     <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-mori&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" height="200px" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=giovana-mori&theme=radical&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=giovana-mori&theme=radical&hide_border=true" width="100%"
         alt="Github Streak"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-mori&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" />
+      /> 
     </td>  
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3 Logo" width="50" height="50" />
-      <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50" height="50" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="50" height="50" />
-    </td>
   </tr>
 </table>
 
+---
 
+## 🛠️ Ferramentas Utilizadas
 
---- 
+<span align="center" style="border:none">
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=777BB4&color=282c34" alt="PHP logo" title="PHP" height="25" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=FF2D20&color=282c34" alt="Laravel logo" title="Laravel" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=4479A1&color=282c34" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=F24E1E&color=282c34" alt="Figma logo" title="Figma" height="25" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=0079BF&color=282c34" alt="Trello logo" title="Trello" height="25" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=31A8FF&color=282c34" alt="Photoshop logo" title="Photoshop" height="25" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=181717&color=282c34" alt="GitHub logo" title="GitHub" height="25" />
+</span>
 
 ## 🚀 Projetos
 
@@ -67,8 +70,6 @@ Aqui estão alguns dos projetos que estou trabalhando:
 - **Vitas (https://github.com/giovana-mori/vitas):** Sistema de Agendamento para Clínicas de Saúde. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU** 
 - **SisEdu (https://github.com/giovana-mori/sisEdu):** Sistema para Controle de Notas Escolares. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU**
 - **Desafios (https://github.com/giovana-mori/Desafios):** Projetos Pessoais para Fins de Estudo.
-
-![Snake animation](https://github.com/giovana-mori/giovana-mori/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
