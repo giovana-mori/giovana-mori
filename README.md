@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/giovana-mori/giovana-mori/main/meugifperfil.gif" width="100%" alt="Bem Vindo" />
+<img src="https://raw.githubusercontent.com/giovana-mori/giovana-mori/main/Giovana-Mori-GIF.gif" width="100%" alt="Bem Vindo" />
 
 ---
 
