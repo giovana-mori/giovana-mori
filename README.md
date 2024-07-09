@@ -83,7 +83,7 @@
 Aqui estão alguns dos projetos que estou trabalhando:
 
 - **PortifolioGiovanaMori (https://github.com/giovana-mori/Portifolio-GiovanaMori):** Primeiro contato com HTML5 e CSS3 na **FATEC JAHU**
-- **Vitas (https://github.com/giovana-mori/vitas):** Sistema de Agendamento para Clínicas de Saúde. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU** 
+- **Vitas (https://github.com/giovana-mori/Pi-Integrador-Vitas):** Sistema de Agendamento para Clínicas de Saúde. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU** 
 - **SisEdu (https://github.com/giovana-mori/sisEdu):** Sistema para Controle de Notas Escolares. **Projeto Desenvolvido para o Curso de DSM - FATEC JAHU**
 - **Desafios (https://github.com/giovana-mori/Desafios):** Projetos Pessoais para Fins de Estudo.
 
