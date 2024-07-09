@@ -37,7 +37,7 @@
   <tr style="border: none;">
     <td style="border: none;">
       <img
-        src="https://github-readme-stats.vercel.app/api/?username=giovana-mori&show_icons=true&count_private=true&theme=radical&hide_border=true" width="100%" height="200px"
+        src="https://github-readme-stats.vercel.app/api/?username=giovana-mori&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" width="100%" height="200px"
         alt="Github Stats"
       />
     </td>
