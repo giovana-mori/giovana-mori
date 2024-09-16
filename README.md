@@ -74,8 +74,8 @@
   <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=0079BF&color=ebebeb" alt="Trello logo" title="Trello" height="25" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=31A8FF&color=ebebeb" alt="Photoshop logo" title="Photoshop" height="25" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=181717&color=ebebeb" alt="GitHub logo" title="GitHub" height="25" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&color=333333" alt="C# logo" title="C#" height="25" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&color=333333" alt=".NET logo" title=".NET" height="25" />
+ <img src="https://img.shields.io/badge/C%23-000000?logo=csharp&logoColor=239120&color=ebebeb" alt="C# logo" title="C#" height="25" />
+ <img src="https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=512BD4&color=ebebeb" alt=".NET logo" title=".NET" height="25" />
 </div>
 
 ---
