@@ -70,6 +70,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=777BB4&color=ebebeb" alt="PHP logo" title="PHP" height="25" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=FF2D20&color=ebebeb" alt="Laravel logo" title="Laravel" height="25" /><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=4479A1&color=ebebeb" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=47A248&color=ebebeb" alt="MongoDB logo" title="MongoDB" height="25" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=F24E1E&color=ebebeb" alt="Figma logo" title="Figma" height="25" />
   <img src="https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=0079BF&color=ebebeb" alt="Trello logo" title="Trello" height="25" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=31A8FF&color=ebebeb" alt="Photoshop logo" title="Photoshop" height="25" />
