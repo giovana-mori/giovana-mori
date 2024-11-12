@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=181717&color=ebebeb" alt="GitHub logo" title="GitHub" height="25" />
   <img src="https://img.shields.io/badge/C%23-000000?logo=c-sharp&logoColor=512BD4&color=ebebeb" alt="C# logo" title="C#" height="25"/>
   <img src="https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=512BD4&color=ebebeb" alt=".NET logo" title=".NET" height="25" />
-  <img src="https://img.shields.io/badge/C%23-ebebeb?logo=c-sharp&logoColor=512BD4&labelColor=000000&style=for-the-badge" alt="C# logo" title="C#" height="25" />
 </div>
 
 ---
