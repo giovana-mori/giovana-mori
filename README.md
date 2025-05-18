@@ -77,6 +77,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=181717&color=ebebeb" alt="GitHub logo" title="GitHub" height="25" />
   <img src="https://img.shields.io/badge/C%23-000000?logo=c-sharp&logoColor=512BD4&color=ebebeb" alt="C# logo" title="C#" height="25"/>
   <img src="https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=512BD4&color=ebebeb" alt=".NET logo" title=".NET" height="25" />
+  <img src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=339933&color=ebebeb" alt="Node.js logo" title="Node.js" height="25" />
+  <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB&color=ebebeb" alt="React logo" title="React" height="25" />
+
 </div>
 
 ---
