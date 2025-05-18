@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6&color=ebebeb" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032&color=ebebeb" alt="git logo" title="git" height="25" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC&color=ebebeb" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC&color=ebebeb" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000?logo=visual-studio-code&logoColor=007ACC&color=ebebeb" alt="VS Code logo" title="VS Code" height="25" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=777BB4&color=ebebeb" alt="PHP logo" title="PHP" height="25" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=FF2D20&color=ebebeb" alt="Laravel logo" title="Laravel" height="25" /><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=4479A1&color=ebebeb" alt="MySQL logo" title="MySQL" height="25" />
