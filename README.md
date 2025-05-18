@@ -4,7 +4,7 @@
 
 ## 🌸 Sobre Mim
 
-🎓 **Formação:** Estudante de Desenvolvimento de Software Multiplataformas
+🎓 **Formação:** Estudante de Desenvolvimento de Software Multiplataforma
 
 ---
 
@@ -15,7 +15,7 @@
 
 ---
 
-💻 **Tecnologias:** Apaixonada por desenvolvimento e tecnologia, atualmente focada em PHP, Laravel, Mysql, HTML5, CSS3, Tailwind, Bootstrap e JavaScript. 
+💻 **Tecnologias:** Apaixonada por desenvolvimento e tecnologia, atualmente focada em PHP, Laravel, Mysql, HTML5, CSS3, Tailwind, Bootstrap, JavaScript entre outras. 
 
 ---
 
