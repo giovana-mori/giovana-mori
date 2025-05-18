@@ -35,6 +35,7 @@
 
 ## ⚙️ GitHub Analytics
 
+<div align="center">
 <table id="table_stats" style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -57,7 +58,7 @@
     </td>  
   </tr>
 </table>
-
+</div>
 ---
 
 ## 🛠️ Ferramentas Utilizadas
